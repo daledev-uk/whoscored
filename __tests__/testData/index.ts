@@ -1,6 +1,8 @@
 import * as fs from 'fs';
 import * as path from 'path';
 
+test.skip('skip', () => {});
+
 export function liverpoolSearchResult(): string {
 	return getTestDataFileContent('liverpoolSearchResult.xml');
 }

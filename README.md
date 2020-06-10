@@ -12,9 +12,9 @@
       <img src="https://travis-ci.com/daledev-uk/whoscored.svg?branch=master">
   </a>
   
-  <a href='https://coveralls.io/github/daledev-uk/whoscored?branch=master'>
-      <img src='https://coveralls.io/github/daledev-uk/whoscored/badge.svg?branch=master' alt='Coverage Status'>
-  </a>
+<a href='https://coveralls.io/github/daledev-uk/whoscored?branch=master'>
+    <img src='https://coveralls.io/repos/github/daledev-uk/whoscored/badge.svg?branch=master' alt='Coverage Status' />
+</a>
 </p>
 
 A module to access WhoScored.com data
