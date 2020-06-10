@@ -1,0 +1,72 @@
+<div class="search-result">
+    <h2>Teams:</h2>
+    <table>
+        <tbody><tr>
+            <th>Team</th>
+            <th>Country</th>
+        </tr>
+
+            <tr class="">
+                <td><a href="/Teams/26/Show/England-Liverpool">Liverpool</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+            <tr class="alt">
+                <td><a href="/Teams/2923/Show/Uruguay-Liverpool-FC">Liverpool FC</a></td>
+                <td><span class="iconize iconize-icon-left">Uruguay<span class="ui-icon country flg-uy"></span></span></td>
+            </tr>
+
+            <tr class="">
+                <td><a href="/Teams/7678/Show/England-Liverpool-Reserves">Liverpool Reserves</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+            <tr class="alt">
+                <td><a href="/Teams/11881/Show/England-Liverpool-U23">Liverpool U23</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+            <tr class="">
+                <td><a href="/Teams/12169/Show/England-Liverpool-U19">Liverpool U19</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+            <tr class="alt">
+                <td><a href="/Teams/23616/Show/England-Liverpool-XI">Liverpool XI</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+            <tr class="">
+                <td><a href="/Teams/24229/Show/England-AFC-Liverpool">AFC Liverpool</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+            <tr class="alt">
+                <td><a href="/Teams/28644/Show/England-Liverpool-Academy">Liverpool Academy</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+            <tr class="">
+                <td><a href="/Teams/27229/Show/England-City-of-Liverpool">City of Liverpool</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+        </tbody></table>
+    <h2>Players:</h2>
+    <table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Team</th>
+            <th>Age</th>
+        </tr>
+
+
+            <tr class="">
+                <td><a href="/Players/38068/Show/Dmitrij-Liverpool" class="iconize iconize-icon-left"><span class="ui-icon country flg-ru"></span>Dmitrij Liverpool</a></td>
+                <td></td>
+                <td><span></span></td>
+            </tr>
+
+        </tbody></table>
+
+</div>

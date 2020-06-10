@@ -1,11 +1,11 @@
-import {whoScoredApi} from "../src";
+import {whoScoredApi} from '../src';
 
-describe("Searching for teams", () => {
+describe('Searching for teams', () => {
 
-    test("results not null", async (done) => {
-        const results = await whoScoredApi.search("Ipswich");
+	test('results not null', async (done) => {
+		const results = await whoScoredApi.search('Ipswich');
 
-        expect(results).not.toBeNull();
-        done();
-    });
+		expect(results).not.toBeNull();
+		done();
+	});
 });

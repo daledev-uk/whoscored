@@ -1,0 +1,46 @@
+<div class="search-result">
+    <h2>Teams:</h2>
+    <table>
+        <tbody><tr>
+            <th>Team</th>
+            <th>Country</th>
+        </tr>
+
+            <tr class="">
+                <td><a href="/Teams/165/Show/England-Ipswich">Ipswich</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+            <tr class="alt">
+                <td><a href="/Teams/18113/Show/England-Ipswich-U21">Ipswich U21</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+            <tr class="">
+                <td><a href="/Teams/18226/Show/England-Ipswich-Wanderers">Ipswich Wanderers</a></td>
+                <td><span class="iconize iconize-icon-left">England<span class="ui-icon country flg-gb-eng"></span></span></td>
+            </tr>
+
+            <tr class="alt">
+                <td><a href="/Teams/20336/Show/Australia-Ipswich-Knights">Ipswich Knights</a></td>
+                <td><span class="iconize iconize-icon-left">Australia<span class="ui-icon country flg-au"></span></span></td>
+            </tr>
+
+            <tr class="">
+                <td><a href="/Teams/27525/Show/Australia-Ipswich-City">Ipswich City</a></td>
+                <td><span class="iconize iconize-icon-left">Australia<span class="ui-icon country flg-au"></span></span></td>
+            </tr>
+
+            <tr class="alt">
+                <td><a href="/Teams/20334/Show/Australia-Ipswich-Knights-Reserves">Ipswich Knights Reserves</a></td>
+                <td><span class="iconize iconize-icon-left">Australia<span class="ui-icon country flg-au"></span></span></td>
+            </tr>
+
+            <tr class="">
+                <td><a href="/Teams/27539/Show/Australia-Ipswich-Knights-U20">Ipswich Knights U20</a></td>
+                <td><span class="iconize iconize-icon-left">Australia<span class="ui-icon country flg-au"></span></span></td>
+            </tr>
+
+        </tbody></table>
+
+</div>

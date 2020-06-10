@@ -1,0 +1,40 @@
+<div class="search-result">
+    <h2>Players:</h2>
+    <table>
+        <tbody><tr>
+            <th>Name</th>
+            <th>Team</th>
+            <th>Age</th>
+        </tr>
+
+
+            <tr class="">
+                <td><a href="/Players/11119/Show/Lionel-Messi" class="iconize iconize-icon-left"><span class="ui-icon country flg-ar"></span>Lionel Messi</a></td>
+                <td><a style="color:black;" href="/Teams/65/Show/Spain-Barcelona" class="iconize iconize-icon-left">Barcelona<span class="ui-icon country flg-es"></span></a></td>
+                <td><span>32</span></td>
+            </tr>
+
+
+            <tr class="alt">
+                <td><a href="/Players/70719/Show/Mbida-Messi" class="iconize iconize-icon-left"><span class="ui-icon country flg-cm"></span>Mbida Messi</a></td>
+                <td></td>
+                <td><span>39</span></td>
+            </tr>
+
+
+            <tr class="">
+                <td><a href="/Players/331370/Show/Messi-Essomba" class="iconize iconize-icon-left"><span class="ui-icon country flg-cm"></span>Messi Essomba</a></td>
+                <td></td>
+                <td><span>30</span></td>
+            </tr>
+
+
+            <tr class="alt">
+                <td><a href="/Players/309702/Show/Enguene-Junior-Messi" class="iconize iconize-icon-left"><span class="ui-icon country flg-cm"></span>Enguene Junior Messi</a></td>
+                <td></td>
+                <td><span>26</span></td>
+            </tr>
+
+        </tbody></table>
+
+</div>

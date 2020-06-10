@@ -1,23 +1,18 @@
 {
-  "defaultSeverity": "error",
-  "extends": ["tslint:latest"],
-  "jsRules": {},
-  "rules": {
-    "member-access": false,
-    "object-literal-sort-keys": false,
-    "ordered-imports": false,
-    "interface-name": false,
-    "no-console": false,
-    "no-consecutive-blank-lines": false,
-    "whitespace": true,
-    "no-shadowed-variable": false,
-    "no-irregular-whitespace": false,
-    "no-trailing-whitespace": false,
-    "typedef-whitespace": false,
-    "newline-before-return": false,
-    "eofline": false,
-    "arrow-parens": false,
-    "no-duplicate-imports": false
+  "defaultSeverity": "warning",
+  "extends": ["tslint:recommended"],
+  "linterOptions": {
+    "exclude": ["node_modules/**", "src/assets/**"]
   },
-  "rulesDirectory": []
+  "rules": {
+    "quotemark": [true, "single"],
+    "indent": [true, "tabs", 4],
+    "interface-name": false,
+    "ordered-imports": false,
+    "object-literal-sort-keys": false,
+    "no-consecutive-blank-lines": false,
+    "arrow-parens": false,
+    "trailing-comma": false,
+    "max-line-length": false
+  }
 }
